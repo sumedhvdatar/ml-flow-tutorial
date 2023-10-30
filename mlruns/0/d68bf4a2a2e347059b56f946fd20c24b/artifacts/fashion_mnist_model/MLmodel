@@ -1,0 +1,19 @@
+artifact_path: fashion_mnist_model
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.8.15
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.10.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 2.7.1
+model_uuid: cc020722f8de4736880039880f0609b2
+run_id: d68bf4a2a2e347059b56f946fd20c24b
+utc_time_created: '2023-10-08 18:35:36.964218'

@@ -1,0 +1,6 @@
+#ML Project File
+name: Fashion_MNIST_Image_Classification
+conda_env: conda.yaml  # Specify the Conda environment file if needed
+entry_points:
+  main:
+    command: "python main.py"

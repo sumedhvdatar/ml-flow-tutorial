@@ -1,0 +1,6 @@
+aliases: {}
+creation_timestamp: 1696704268498
+description: This model is an image recognition model that is trained on fashion mnist
+  dataset
+last_updated_timestamp: 1696704456649
+name: fashion-mnist-dataset

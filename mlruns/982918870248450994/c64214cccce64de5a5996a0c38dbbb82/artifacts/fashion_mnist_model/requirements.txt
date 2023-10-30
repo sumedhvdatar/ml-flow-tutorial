@@ -1,0 +1,11 @@
+mlflow==2.7.1
+importlib-metadata==5.1.0
+numpy==1.23.4
+packaging==21.3
+pandas==2.0.3
+protobuf==3.19.6
+pydot==1.4.2
+requests==2.28.1
+scipy==1.10.1
+tensorflow-gpu==2.10.1
+tensorflow==2.10.1

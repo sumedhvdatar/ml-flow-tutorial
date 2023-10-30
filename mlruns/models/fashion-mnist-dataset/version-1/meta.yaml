@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1696704432061
+current_stage: None
+description: ''
+last_updated_timestamp: 1696704432061
+name: fashion-mnist-dataset
+run_id: 8ea2a043c5d340f7acff982624d00b63
+run_link: ''
+source: file:///C:/sumedh/hobby_projects/ai_scare_crow/mlruns/0/8ea2a043c5d340f7acff982624d00b63/artifacts/fashion_mnist_model
+status: READY
+status_message: null
+user_id: null
+version: 1
